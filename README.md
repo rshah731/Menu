@@ -1,1 +1,1 @@
-Created a sushi menu using Swift UI and Xcode.
+Created a sushi menu using Swift and Xcode.
